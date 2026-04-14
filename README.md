@@ -10,3 +10,8 @@ Interview preparation full repository
 ## https://github.com/Devinterview-io
 ## https://gist.github.com/paulfranco/9f88a2879b7b7d88de5d1921aef2093b
 ## https://github.com/Mohamed-Hashem/nodejs-interview-questions?tab=readme-ov-file#table-of-contents
+## https://github.com/Mohamed-Hashem/nodejs-interview-questions/tree/master
+## https://github.com/rahuljindal1/node-interview-questions
+## https://github.com/aquibzahidi/Advance-NodeJs
+## https://github.com/sudheerj/reactjs-interview-questions?tab=readme-ov-file#table-of-contents
+## https://www.interviewbit.com/node-js-interview-questions/
